@@ -208,3 +208,38 @@ plt.title("With Sunglasses")
 plt.axis("on")
 plt.show()
 ```
+
+**OUTPUT:**
+Original Face Image
+
+<img width="438" height="496" alt="image" src="https://github.com/user-attachments/assets/6972402f-561c-450a-be8e-ead92c4b052c" />
+
+Sunglass Image
+
+
+<img width="681" height="335" alt="image" src="https://github.com/user-attachments/assets/7657728b-8c4f-44d3-b344-e482cb01ca95" />
+
+
+Image Dimension
+
+<img width="397" height="65" alt="image" src="https://github.com/user-attachments/assets/446496ac-5c08-4cb3-8573-36e8397d30ce" />
+
+Sunglass with colour channel and with alpha channel
+
+<img width="1218" height="251" alt="image" src="https://github.com/user-attachments/assets/cdcf2a4a-d8e6-482d-9faa-45e0e08efcb0" />
+
+Image with Sunglass
+
+<img width="561" height="655" alt="image" src="https://github.com/user-attachments/assets/b403f3a4-2f0f-4c8d-a780-a3267b70a30b" />
+
+Augumented Eye and Sunglasses
+
+<img width="1250" height="242" alt="image" src="https://github.com/user-attachments/assets/f16ed113-fb59-42fb-80de-dcf63db07dae" />
+
+Image with and without sunglasses
+
+<img width="1193" height="686" alt="image" src="https://github.com/user-attachments/assets/fb41746b-b219-4712-b30b-47bce26639ab" />
+
+
+**RESULT:**
+Thus, the Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing has been done and verified successfully.
