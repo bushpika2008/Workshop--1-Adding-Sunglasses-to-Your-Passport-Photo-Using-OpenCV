@@ -206,6 +206,5 @@ plt.subplot(122)
 plt.imshow(faceWithGlasses[:,:,::-1])
 plt.title("With Sunglasses")
 plt.axis("on")
-```
-
 plt.show()
+```
